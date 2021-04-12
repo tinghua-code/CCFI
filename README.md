@@ -1,3 +1,6 @@
+##Usage
+Code is under review, will publish soon.
+
 ## Citation
 CCFI has been developed as part of the following paper. We appreciate it if you would please cite the following paper if you found the library useful for your work:
 
